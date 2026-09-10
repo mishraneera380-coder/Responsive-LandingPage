@@ -24,17 +24,17 @@ Designed to showcase clean UI/UX principles, mobile-first responsiveness, and st
 
 ## Project Structure
 LandingPage/
-├── index.html
-├── style.css
-└── assets/
-    ├── gurll.jpg
-    └── abt.jpg
+├── index.html       
+├── style.css        
+└── assets/          
+    ├── gurl.jpg      
+    └── abt.jpg      
 
 ---
 
 ## Deployment
 This project is deployed using **GitHub Pages**.  
- [Live Demo]()
+ [Live Demo](https://mishraneera380-coder.github.io/Responsive-LandingPage/)
 
 ---
 
