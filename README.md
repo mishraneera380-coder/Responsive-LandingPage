@@ -43,7 +43,3 @@ This project is deployed using **GitHub Pages**.
 - Integrate JavaScript for dynamic behavior
 - Improve accessibility (ARIA roles, alt text)
 
----
-
-## License
-This project is open-source and available under the MIT License.
